@@ -1,0 +1,54 @@
+body{
+  background: pink;
+  color: deeppink;
+  font-size: 20px;
+  font-family: Strawberry Muffins; 
+}
+h1{
+  color: deeppink;
+  background-color: white;
+  font-size: 100px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  margin-left: 200px;
+  margin-right: 200px;
+  border: deeppink dashed 10px;
+  text-align: center;
+}
+h2{
+  font-size: 50px;
+  text-align: center;
+}
+.navbar ul{
+  list-style-type: none;
+  background-color: white;
+  padding: 0px;
+  margin-top: 20px;
+  margin-left: 200px;
+  margin-right: 200px;
+  overflow: hidden;
+  border: deeppink dashed 10px;
+}
+.navbar a{
+  color: deeppink;
+  text-decoration: none;
+  padding: 15px;
+  display: block;
+}
+.navbar a:hover{
+  background-color: deeppink;
+  color: white;
+}
+.navbar li{
+  float: left;
+}
+main{
+  background-color: white;
+  margin-top: 20px;
+  margin-left: 200px;
+  margin-right: 200px;
+  border: deeppink dashed 10px;
+  padding-left: 200px;
+  padding-right: 200px;
+  text-align: justify;
+}
